@@ -236,11 +236,12 @@ section {
 
 .col-2 {
     width: 50%;
-    background-color: #b4b4b4;
+    /* background-color: #eeeeee; */
 }
 
 .col-3 {
     width: 33.33%;
+    /* background-color: #b4b4b4; */
 }
 
 .col-4 {
