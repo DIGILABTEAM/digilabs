@@ -236,6 +236,7 @@ section {
 
 .col-2 {
     width: 50%;
+    background-color: #ccc;
 }
 
 .col-3 {
